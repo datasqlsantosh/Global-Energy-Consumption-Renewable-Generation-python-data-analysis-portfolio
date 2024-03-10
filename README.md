@@ -14,7 +14,7 @@ This project focuses on analyzing global energy consumption patterns and trends 
 - Seaborn
 
 ## Project Structure
-- **data/**: Directory containing data files
+- **dataset/**: Directory containing data files
   - *energy_consumption.csv*: Energy consumption data file
   - *renewable_generation.csv*: Renewable generation data file
 - **notebooks/**: Directory for Jupyter notebooks
